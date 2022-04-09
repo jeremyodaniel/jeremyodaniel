@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeremyodaniel
 - 👀 I’m interested in web development and web security.
-- 🌱 I’m currently learning a host of languages through Trilogy at Southern Methodist University.
+- 🌱 I’m currently learning web development through Trilogy at Southern Methodist University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
