@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Github Stats - https://github.com/anuraghazra/github-readme-stats
+Github Stats contributed by https://github.com/anuraghazra/github-readme-stats
